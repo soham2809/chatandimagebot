@@ -15,12 +15,12 @@ genai.configure(api_key=GOOGLE_API_KEY)
 
 #load gemini-pro model
 def gemini_pro():
-    model = genai.GenerativeModel('gemini-pro')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     return model
 
 #load gemini vision model
 def gemini_vision():
-    model = genai.GenerativeModel('gemini-pro-vision')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     return model
 
 #get response from gemini pro vision model
