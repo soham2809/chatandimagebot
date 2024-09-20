@@ -24,7 +24,7 @@ Learn more about Streamlit by visiting the [Streamlit documentation](https://doc
 ## Screenshots
 Chatbot 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot)
+![App Screenshot](https://github.com/soham2809/chatandimagebot/blob/main/text_example%201.png?raw=true)
 
 Image Captioning
 
