@@ -24,12 +24,12 @@ Learn more about Streamlit by visiting the [Streamlit documentation](https://doc
 ## Screenshots
 Chatbot 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot)
 
 Image Captioning
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/soham2809/chatandimagebot/f229a7414ba5edb2be54e8fc1e6efd86ca40314b/image_example1.png)
 ## Live Project Link
 
 Try out the live project [here](https://sohamchatandimagebot.streamlit.app/).
