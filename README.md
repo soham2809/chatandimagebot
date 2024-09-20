@@ -1,5 +1,5 @@
 
-# Soham ChatandImage Bot
+# Chatbot and Image Caption Generator with Google Gemini API and Streamlit 
 
 This project is a chat and image caption generator that leverages the Google Gemini API and Streamlit. It offers two main features: a conversational chatbot and an image captioning tool.
 
